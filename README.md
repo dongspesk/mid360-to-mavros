@@ -8,7 +8,7 @@
 
 比较懒 关于发布到mavros的文件过几天上传
 
-代码演示为roll偏移20度
+代码演示为沿着y轴偏移20度
 
 
 <img width="1594" height="578" alt="image" src="https://github.com/user-attachments/assets/db49489a-8770-4513-b229-e114051edaaf" />
